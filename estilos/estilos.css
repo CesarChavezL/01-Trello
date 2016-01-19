@@ -1,20 +1,14 @@
-*::-moz-selection {
-	background: none repeat scroll 0% 0% #B6E2FC;
-	text-shadow: none;
-}
 
 *{
 	margin: 0 auto; 
 }
-html {
+body {
 	font-family: Arial,Helvetica,sans-serif;
 	color: #4d4d4d;
 	font-size: 20px;
 	line-height: 1.44em;
 }
-body{
-	
-}
+
 a{
 	background:transparent;
 }
