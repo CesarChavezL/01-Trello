@@ -350,8 +350,7 @@ footer a{
 footer a:hover{	
 	color: #1C1C1C;
 }
-@media (max-width: 765px){
-	html{
+html{
 		font-size: 16px;
 	}
 	.cuatro #4{
@@ -452,11 +451,7 @@ footer a:hover{
 	}
 	footer{
 		font-size: 12px;
-	}
-}
-
-@media (max-width: 600px){
-	.r3{
+.r3{
 		margin-left: 0px;
 		text-align: left;
 		max-width: 380px;
